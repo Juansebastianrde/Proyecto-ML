@@ -1,4 +1,4 @@
-# === Cell 1 ===
+# === Cell 1 ==
 # Cargar librerías
 import pandas as pd
 import numpy as np
